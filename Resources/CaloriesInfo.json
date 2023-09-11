@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1000,
+      "name": "",
+      "category": "empty",
+      "calories": 0,
+      "level": "",
+      "description": ""
+    },
+    {
+        "id": 1001,
+        "name": "apple",
+        "category": "fruit",
+        "calories": 153,
+        "level": "green",
+        "description": "Apples are delicious fruits packed with essential nutrients. They are rich in fiber, vitamins (like C and A), and minerals (such as potassium). Consuming apples offers numerous benefits: they promote heart health, aid in weight management, support digestion, provide antioxidant protection, hydrate the body, maintain oral health, and enhance skin health. With their sweet or tart taste and vibrant colors, apples are a healthy and refreshing choice for overall well-being."
+    },
+    {
+        "id": 1002,
+        "name": "rice",
+        "category": "StapleFood",
+        "calories": 250,
+        "level": "yellow",
+        "description": "Rice is a staple food that has been cultivated for thousands of years and is a dietary mainstay for a large portion of the world's population. It is a cereal grain that belongs to the grass family. Rice is known for its versatility and is consumed in various forms, such as white, brown, jasmine, basmati, and more. It serves as a primary source of carbohydrates and provides essential nutrients like vitamins, minerals, and dietary fiber. Rice can be cooked in different ways and accompanies a wide range of dishes, making it a fundamental ingredient in many cuisines worldwide."
+    },
+    {
+        "id": 1003,
+        "name": "pizza",
+        "category": "cuisines",
+        "calories": 700,
+        "level": "red",
+        "description": "Pizza is a beloved and iconic dish that originated in Italy but has gained worldwide popularity. It typically consists of a round, flat bread base topped with tomato sauce, cheese, and various ingredients such as vegetables, meats, and herbs. The crust can range from thin and crispy to thick and doughy. Pizza is known for its delicious combination of flavors and textures, making it a versatile and customizable dish to suit different tastes. Whether enjoyed as a quick bite or a sit-down meal, pizza has become a global favorite and a symbol of comfort food."
+    },
+    {
+        "id": 1004,
+        "name": "broccoli",
+        "category": "vegetable",
+        "calories": 33,
+        "level": "green",
+        "description": "西蓝花营养丰富，日本的一项研究显示，西蓝花的平均营养价值及防病作用远远超出其他蔬菜，古代西方人曾把西蓝花称为“天赐的良药”“穷人的医生”。《中华本草》一书中有对西兰花药用价值的具体记载，称其入胃、肾经，具有清利湿热、散结止痛、益肾补虚的作用。西蓝花的茎叶中蛋白质含量高达20%，是一种潜在的植物蛋白饲料资源。西蓝花在几千年前便在北地中海区域广泛食用，在罗马时代更是主要食物，是美国《时代》杂志推荐的十大健康食品之一。"
+    },
+    {
+        "id": 1005,
+        "name": "chicken breast",
+        "category": "protein",
+        "calories": 118,
+        "level": "green",
+        "description": "鸡胸肉，是鸡身上最大的两块肉。常见鸡肉，鸡胸肉是在胸部里侧的肉，形状像斗笠，胸脯肉。肉质细嫩，滋味鲜美，营养丰富，能滋补养身。鸡胸肉蛋白质含量较高，且易被人体吸收入利用，有增强体力，强壮身体的作用，所含对人体生长发育有重要作用的磷脂类，是中国人膳食结构中脂肪和磷脂的重要来源之一。适合减脂期食用。"
+    },
+    {
+        "id": 1006,
+        "name": "banana",
+        "category": "fruit",
+        "calories": 93,
+        "level": "green",
+        "description": "香蕉在中国历代本草书籍中均有记载，如《日用本草》中记载了香蕉具有治疗热病烦渴、肺燥咳嗽、便秘、痔疮的药用价值。同时，香蕉为世界四大水果之一，产量高分布广、果肉营养丰富、香甜软糯，而且香蕉具有很高的经济价值，除了供应中国国内市场外，香蕉在国际水果进出口贸易中占据重要地位。"
+    },
+    {
+        "id": 1007,
+        "name": "carrot",
+        "category": "vegetable",
+        "calories": 25,
+        "level": "green",
+        "description":"《岭南草药志》曾对胡萝卜的药效作用做过记载，胡萝卜具有健脾和中，滋肝明目，化痰止咳，清热解毒的功效。胡萝卜的木质素，也有提高机体抗癌免疫力和间接消灭癌细胞的功能。胡萝卜质脆味美、营养丰富，烹调时应用食用油烹制，营养价值更高。科学研究证实：每天吃3根胡萝卜，有助于预防心脏疾病和肿瘤。"
+    },
+    {
+        "id": 1008,
+        "name": "cake",
+        "category": "cuisines",
+        "calories": 390,
+        "level": "red",
+        "description": "蛋糕是一种古老的西点，一般是由烤箱制作的，蛋糕是用鸡蛋、白糖、小麦粉为主要原料。以牛奶、果汁、奶粉、香粉、色拉油、水，起酥油、泡打粉为辅料。经过搅拌、调制、烘烤后制成一种像海绵的点心。蛋糕是一种面食，通常是甜的，典型的蛋糕是以烤的方式制作出来。蛋糕的材料主要包括了面粉、甜味剂（通常是蔗糖）、黏合剂（一般是鸡蛋，素食主义者可用面筋和淀粉代替）、起酥油（一般是牛油或人造牛油，低脂肪含量的蛋糕会以浓缩果汁代替），液体（牛奶、水或果汁），香精和发酵剂（例如酵母或者发酵粉）。"
+    },
+    {
+        "id": 1009,
+        "name": "sandwich",
+        "category": "StapleFood",
+        "calories": 240,
+        "level": "yellow",
+        "description": "三明治（Sandwich）源于大不列颠王国的候爵，是一种典型的西方食品，以两片面包夹几片肉和奶酪、各种调料制作而成，吃法简便，广泛流行于西方各国。其制作方法是将黄瓜斜切成片，鸡蛋煮熟去壳后切碎，加入沙拉酱、一小撮盐和适量胡椒粉，并搅拌均匀，在吐司上均匀抹上拌好的鸡蛋，盖上第二片吐司，铺上一片火腿片，再挤上一点沙拉酱，再放上蔬菜和沙拉，再放上一片吐司切成三角形即可。"
+    }
+]

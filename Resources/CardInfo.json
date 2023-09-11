@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "image": "qingshi-1",
+        "title": "轻食套餐-1",
+        "descrip": "性价比首选",
+        "stars": 4,
+        "price": "$5.99",
+        "expand": false
+    },
+    {
+        "id": 1,
+        "image": "qingshi-2",
+        "title": "轻食套餐-2",
+        "descrip": "精致又美味轻食套餐",
+        "stars": 4,
+        "price": "$7.99",
+        "expand": false
+    },
+    {
+        "id": 2,
+        "image": "maxresdefault2",
+        "title": "轻食套餐-3",
+        "descrip": "轻食中的饕餮大餐",
+        "stars": 5,
+        "price": "$9.99",
+        "expand": false
+    },
+    {
+        "id": 3,
+        "image": "maxresdefault3",
+        "title": "轻食特价套餐",
+        "descrip": "临期轻食惊喜搭配",
+        "stars": 5,
+        "price": "$4.99",
+        "expand": false
+    }
+]

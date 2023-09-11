@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "image": "corn",
+        "name": "玉米"
+    },
+    {
+        "id": 2,
+        "image": "broccoli",
+        "name": "西兰花"
+    },
+    {
+        "id": 3,
+        "image": "chicken_breast",
+        "name": "鸡胸肉"
+    },
+    {
+        "id": 4,
+        "image": "shrimp",
+        "name": "虾"
+    },
+    {
+        "id": 5,
+        "image": "info",
+        "name": "info"
+    }
+]
